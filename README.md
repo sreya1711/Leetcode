@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sreya1711/Leetcode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
