@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
+| [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
