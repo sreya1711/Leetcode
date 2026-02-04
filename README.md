@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
+| [0796-rotate-string](https://github.com/sreya1711/Leetcode/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sreya1711/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
