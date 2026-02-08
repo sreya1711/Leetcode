@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sreya1711/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
 | [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
