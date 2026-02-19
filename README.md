@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
