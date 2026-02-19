@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sreya1711/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreya1711/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
@@ -108,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
