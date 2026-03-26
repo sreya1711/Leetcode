@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String Matching
 |  |
 | ------- |
