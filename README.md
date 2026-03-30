@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sreya1711/Leetcode/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
 ## Two Pointers
@@ -106,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
