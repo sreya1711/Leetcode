@@ -1,139 +1,94 @@
-# Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<h1 align="center">🚀 LeetCode Solutions</h1>
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/sreya1711/Leetcode/tree/master/0013-roman-to-integer) |
-| [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
-| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
-| [0796-rotate-string](https://github.com/sreya1711/Leetcode/tree/master/0796-rotate-string) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
-| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
-| [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
-| [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/sreya1711/Leetcode/tree/master/0013-roman-to-integer) |
-| [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
-| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/sreya1711/Leetcode/tree/master/0007-reverse-integer) |
-| [0013-roman-to-integer](https://github.com/sreya1711/Leetcode/tree/master/0013-roman-to-integer) |
-| [0029-divide-two-integers](https://github.com/sreya1711/Leetcode/tree/master/0029-divide-two-integers) |
-| [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
-| [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
-| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
-| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
-| [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
-| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
-| [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
-| [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
-| [0066-plus-one](https://github.com/sreya1711/Leetcode/tree/master/0066-plus-one) |
-| [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
-| [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
-| [0118-pascals-triangle](https://github.com/sreya1711/Leetcode/tree/master/0118-pascals-triangle) |
-| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
-| [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
-| [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
-| [3074-apple-redistribution-into-boxes](https://github.com/sreya1711/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
-| [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
-| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
-| [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
-| [0876-middle-of-the-linked-list](https://github.com/sreya1711/Leetcode/tree/master/0876-middle-of-the-linked-list) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
-| [3074-apple-redistribution-into-boxes](https://github.com/sreya1711/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
-## Simulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
-| [0682-baseball-game](https://github.com/sreya1711/Leetcode/tree/master/0682-baseball-game) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
-| [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
-| [0118-pascals-triangle](https://github.com/sreya1711/Leetcode/tree/master/0118-pascals-triangle) |
-| [0124-binary-tree-maximum-path-sum](https://github.com/sreya1711/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
-## Tree
-|  |
-| ------- |
-| [0124-binary-tree-maximum-path-sum](https://github.com/sreya1711/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
-## Depth-First Search
-|  |
-| ------- |
-| [0124-binary-tree-maximum-path-sum](https://github.com/sreya1711/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
-## Binary Tree
-|  |
-| ------- |
-| [0124-binary-tree-maximum-path-sum](https://github.com/sreya1711/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
-## Linked List
-|  |
-| ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/sreya1711/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
-| [0206-reverse-linked-list](https://github.com/sreya1711/Leetcode/tree/master/0206-reverse-linked-list) |
-| [0876-middle-of-the-linked-list](https://github.com/sreya1711/Leetcode/tree/master/0876-middle-of-the-linked-list) |
-## Recursion
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/sreya1711/Leetcode/tree/master/0206-reverse-linked-list) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/sreya1711/Leetcode/tree/master/0048-rotate-image) |
-| [0073-set-matrix-zeroes](https://github.com/sreya1711/Leetcode/tree/master/0073-set-matrix-zeroes) |
-## String Matching
-|  |
-| ------- |
-| [0796-rotate-string](https://github.com/sreya1711/Leetcode/tree/master/0796-rotate-string) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
-| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
-| [3074-apple-redistribution-into-boxes](https://github.com/sreya1711/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0029-divide-two-integers](https://github.com/sreya1711/Leetcode/tree/master/0029-divide-two-integers) |
-| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
-| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/sreya1711/Leetcode/tree/master/0042-trapping-rain-water) |
-| [0503-next-greater-element-ii](https://github.com/sreya1711/Leetcode/tree/master/0503-next-greater-element-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/sreya1711/Leetcode/tree/master/0268-missing-number) |
-<!---LeetCode Topics End-->
+<p align="center">
+  A curated collection of <b>LeetCode</b> solutions focused on Data Structures & Algorithms for coding interview preparation.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 About
+
+This repository contains my LeetCode solutions organized topic-wise for easy learning and interview preparation.
+
+✨ Main Focus:
+- Data Structures & Algorithms
+- Problem Solving
+- Coding Interview Preparation
+- Consistent Practice
+
+---
+
+## 🔗 Profiles
+
+- 💻 LeetCode: [@Sreya_11](https://leetcode.com/Sreya_11)
+- 🌟 GitHub: [@sreya1711](https://github.com/sreya1711)
+
+---
+
+# 📚 Topics Covered
+<p align="center">
+  <img src="https://img.shields.io/badge/String-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Array-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hash%20Table-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linked%20List-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Binary%20Tree-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tree-brown?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Math-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matrix-darkblue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sliding%20Window-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Binary%20Search-lightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Greedy-darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recursion-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DFS-black?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bit%20Manipulation-indigo?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Two%20Pointers-cyan?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Monotonic%20Stack-magenta?style=for-the-badge"/>
+</p>
+
+## 🛠 Languages Used
+
+- Java ☕
+- C 💻
+
+---
+
+## ⭐ Repository Highlights
+
+✨ Clean and readable solutions  
+✨ Topic-wise organization  
+✨ Beginner-friendly code  
+✨ Interview-focused practice  
+✨ Regularly updated repository  
+
+---
+
+## 🤝 Contribution
+
+Suggestions and improvements are always welcome!
+
+If you found this repository helpful:
+
+🌟 Star the repository  
+🍴 Fork the repository  
+📢 Share with others  
+
+---
+
+<h3 align="center">🔥 Keep Solving • Keep Learning • Keep Growing 🔥</h3>
