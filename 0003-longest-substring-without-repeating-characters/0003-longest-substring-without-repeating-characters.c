@@ -21,5 +21,4 @@ int lengthOfLongestSubstring(char* s) {
         right++;
     }
     return maxLen;
-
 }
