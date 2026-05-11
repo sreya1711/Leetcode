@@ -107,4 +107,12 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
