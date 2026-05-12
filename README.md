@@ -103,6 +103,7 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,9 +115,15 @@ If you found this repository helpful:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sreya1711/Leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
