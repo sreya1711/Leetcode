@@ -115,4 +115,8 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sreya1711/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
