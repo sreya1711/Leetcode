@@ -112,11 +112,13 @@ If you found this repository helpful:
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
 | [0697-degree-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/0697-degree-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
@@ -128,4 +130,8 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
