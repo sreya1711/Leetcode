@@ -112,6 +112,7 @@ If you found this repository helpful:
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
 | [0697-degree-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/0697-degree-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -134,4 +135,12 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
