@@ -127,6 +127,7 @@ If you found this repository helpful:
 | ------- |
 | [0007-reverse-integer](https://github.com/sreya1711/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -151,4 +153,8 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sreya1711/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
