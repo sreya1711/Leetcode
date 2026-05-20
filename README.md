@@ -105,6 +105,7 @@ If you found this repository helpful:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/sreya1711/Leetcode/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +146,7 @@ If you found this repository helpful:
 | ------- |
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/sreya1711/Leetcode/tree/master/0091-decode-ways) |
 ## Linked List
 |  |
 | ------- |
