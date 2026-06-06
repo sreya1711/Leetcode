@@ -115,6 +115,7 @@ If you found this repository helpful:
 | ------- |
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sreya1711/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0697-degree-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/0697-degree-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sreya1711/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -148,6 +149,7 @@ If you found this repository helpful:
 | [0053-maximum-subarray](https://github.com/sreya1711/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/sreya1711/Leetcode/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sreya1711/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |
