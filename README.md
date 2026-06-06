@@ -117,6 +117,7 @@ If you found this repository helpful:
 | [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
 | [0697-degree-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/0697-degree-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/sreya1711/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +160,8 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/sreya1711/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
