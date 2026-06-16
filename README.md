@@ -93,3 +93,15 @@ If you found this repository helpful:
 
 <h3 align="center">🔥 Keep Solving • Keep Learning • Keep Growing 🔥</h3>
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/sreya1711/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/sreya1711/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+<!---LeetCode Topics End-->
