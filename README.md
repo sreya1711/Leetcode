@@ -104,4 +104,12 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/sreya1711/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+## Array
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/sreya1711/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/sreya1711/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
