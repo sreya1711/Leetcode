@@ -101,6 +101,7 @@ If you found this repository helpful:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sreya1711/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/sreya1711/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -121,6 +122,7 @@ If you found this repository helpful:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sreya1711/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
@@ -137,4 +139,5 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
