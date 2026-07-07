@@ -141,6 +141,7 @@ If you found this repository helpful:
 | [0197-rising-temperature](https://github.com/sreya1711/Leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/sreya1711/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/sreya1711/Leetcode/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/sreya1711/Leetcode/tree/master/0595-big-countries) |
 ## Sliding Window
 |  |
 | ------- |
