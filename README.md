@@ -111,6 +111,7 @@ If you found this repository helpful:
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sreya1711/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sreya1711/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/sreya1711/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -124,6 +125,7 @@ If you found this repository helpful:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sreya1711/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
@@ -153,4 +155,8 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sreya1711/Leetcode/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
