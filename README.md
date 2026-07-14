@@ -155,8 +155,17 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sreya1711/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
