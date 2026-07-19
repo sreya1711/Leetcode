@@ -112,6 +112,7 @@ If you found this repository helpful:
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sreya1711/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sreya1711/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -168,6 +169,7 @@ If you found this repository helpful:
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreya1711/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -187,6 +189,7 @@ If you found this repository helpful:
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreya1711/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
