@@ -125,6 +125,7 @@ If you found this repository helpful:
 | [1732-find-the-highest-altitude](https://github.com/sreya1711/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/sreya1711/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreya1711/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sreya1711/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreya1711/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -140,6 +141,7 @@ If you found this repository helpful:
 | [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreya1711/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sreya1711/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
