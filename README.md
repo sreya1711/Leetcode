@@ -176,6 +176,7 @@ If you found this repository helpful:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sreya1711/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sreya1711/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
@@ -233,4 +234,12 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreya1711/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sreya1711/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sreya1711/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
