@@ -115,6 +115,7 @@ If you found this repository helpful:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sreya1711/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ If you found this repository helpful:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sreya1711/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sreya1711/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
