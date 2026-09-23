@@ -116,6 +116,7 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreya1711/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sreya1711/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -191,6 +192,7 @@ If you found this repository helpful:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sreya1711/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreya1711/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -214,6 +216,7 @@ If you found this repository helpful:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sreya1711/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreya1711/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
