@@ -100,6 +100,7 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/sreya1711/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -249,4 +250,12 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreya1711/Leetcode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
