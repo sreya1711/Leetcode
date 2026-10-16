@@ -118,6 +118,7 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreya1711/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sreya1711/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/sreya1711/Leetcode/tree/master/0054-spiral-matrix) |
@@ -221,6 +222,7 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreya1711/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sreya1711/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sreya1711/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sreya1711/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -265,4 +267,8 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreya1711/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sreya1711/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
