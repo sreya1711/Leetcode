@@ -186,6 +186,7 @@ If you found this repository helpful:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreya1711/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/sreya1711/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sreya1711/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sreya1711/Leetcode/tree/master/0070-climbing-stairs) |
