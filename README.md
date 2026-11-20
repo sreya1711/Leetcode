@@ -103,6 +103,7 @@ If you found this repository helpful:
 | [0005-longest-palindromic-substring](https://github.com/sreya1711/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sreya1711/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sreya1711/Leetcode/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/sreya1711/Leetcode/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/sreya1711/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/sreya1711/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -143,6 +144,7 @@ If you found this repository helpful:
 | ------- |
 | [0001-two-sum](https://github.com/sreya1711/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreya1711/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/sreya1711/Leetcode/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/sreya1711/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sreya1711/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreya1711/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
